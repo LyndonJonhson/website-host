@@ -430,7 +430,7 @@ header{
 
 .btn-viewall{
     flex-grow: 1;
-    padding: 20px 60px;
+    padding: 20px 40px;
     background-color: #ff8261;
     color: #fff;
     text-decoration: none;
@@ -616,7 +616,7 @@ footer{
 }
 
 .footer1{
-    flex: 1 1 300px;
+    flex: 1 1 250px;
 }
 
 .footer1 img{
@@ -643,7 +643,7 @@ footer{
 }
 
 .footer2{
-    flex: 1 1 300px;
+    flex: 1 1 250px;
     padding: 30px 0;
 }
 
@@ -670,7 +670,7 @@ footer{
 }
 
 .footer3{
-    flex: 1 1 300px;
+    flex: 1 1 250px;
     padding: 30px 0;
 }
 
@@ -688,7 +688,7 @@ footer{
 }
 
 .footer4{
-    flex: 1 1 300px;
+    flex: 1 1 250px;
     padding: 30px 0;
 }
 
